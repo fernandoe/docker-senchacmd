@@ -1,4 +1,5 @@
 FROM ubuntu:14.10
+MAINTAINER Fernando Espíndola <fer.esp@gmail.com>
 
 RUN apt-get update
 
